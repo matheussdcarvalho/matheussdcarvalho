@@ -8,4 +8,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussdcarvalho&layout=compact&theme=onedark)](https://github.com/matheussdcarvalho/github-readme-stats)
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheussdcarvalho=high-contrast)](matheussdcarvalho/github-readme-activity-graph)
